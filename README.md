@@ -6,3 +6,5 @@ As using a single one-purpose github account for work and private was causing to
 - Work accounts on which I will receive the whole shebang of linux, security, kubernetes and other work-related notifications and all the like.
 
 This is so I don't get all the work related notifications on my private github account when coding and searching github as a way to relax during weekends.
+
+Most of my recemt projects can be found in the [flapperdeflipper](https://github.com/flapperdeflipper) organization.
