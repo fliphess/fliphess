@@ -11,4 +11,4 @@ This is so I don't get all the work related notifications on my private github a
 
 Most of my recent projects can be found in the [flapperdeflipper](https://github.com/flapperdeflipper) organization.
 
-As github more and more becomes a super annoying corporate platform and most issues in projects that you think are related to the issue you are debugging are automagically declared stale and closed without a solution in there, I'm not using github as much as I used to. 
+As github more and more becomes a super annoying corporate platform and most issues in projects that you think are related to the issue you are debugging are automagically declared stale and closed by a bot without any response in there, I'm not using github as much as I used to. 
